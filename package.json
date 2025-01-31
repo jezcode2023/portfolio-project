@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "classnames": "^2.3.2",
+    "react-scroll": "^1.9.0",
+    "react-simple-typewriter": "^5.0.1",
+    "react-type-animation": "^3.2.0",
+    "style": "^0.0.3",
+    "title": "^3.5.3"
+  }
+}
